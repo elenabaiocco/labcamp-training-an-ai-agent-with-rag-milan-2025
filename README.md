@@ -19,4 +19,3 @@
 
 - Elena Baiocco | Cluster Data IT
 - Francesco Miliani | Blockchain Reply IT
-
