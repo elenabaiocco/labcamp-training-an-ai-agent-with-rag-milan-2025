@@ -2,3 +2,7 @@
 context.txt
 dataset.jsonl
 doc.pdf
+test.csv
+test.jsonl
+training.jsonl
+validation.jsonl
