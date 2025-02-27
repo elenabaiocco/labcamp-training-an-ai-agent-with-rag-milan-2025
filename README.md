@@ -5,6 +5,7 @@
 - [LabCamp - Training an AI Agent with AI - Milan 2025](#labcamp---training-an-ai-agent-with-ai---milan-2025)
   - [Table of Contents](#table-of-contents)
   - [Setup](#setup)
+    - [Google Colab](#google-colab)
   - [RAG Pipeline](#rag-pipeline)
     - [Index creation](#index-creation)
     - [Agent creation](#agent-creation)
@@ -39,6 +40,10 @@ During the labcamp, we will provide you with an `.env` file, containing the Open
 ### Agent creation
 
 ## Fine tuning
+
+In `examples` folder you can find an already created dataset files, you can your for fine tuning related to an exercise: Festival di Sanremo 2024.
+
+Thanks to this file, you can directly try the `FineTuning_2_Fine_Tuning_With_OpenAI.ipynb` by means a proper renaming inside the notebook of filenames.
 
 ### Dataset creation
 
